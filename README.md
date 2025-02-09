@@ -1,5 +1,5 @@
 # About Me:
-I'm a Junior Computer Science major and Math minor at the University of Michigan!<br>I'm interested in web/app development, machine learning, and much more!
+I'm a Junior Computer Science major and Math minor at the University of Michigan!<br>I'm interested in web/app development, machine learning, and much more!<br>
 Check me out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cooper-maxwell)!
 
 
